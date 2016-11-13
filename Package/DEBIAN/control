@@ -1,0 +1,10 @@
+Package: io.div3rse.uitools
+Name: uitools
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: bash commands to interact with iOS
+Homepage: http://div3rse.io
+Maintainer: Diverse <me@div3rse.io>
+Author: Diverse <me@div3rse.io>
+Section: Tweaks
+Tag: role::hacker purpose::console
